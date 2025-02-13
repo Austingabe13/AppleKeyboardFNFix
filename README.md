@@ -26,7 +26,7 @@ For **brightness keys to work**, use [Twinkle Tray](https://twinkletray.com/):
 3. **It is recommended to autostart this at logon using task scheduler**
 
 ### **Building From AutoHotkey Script**
-1. Download AutoHotkey from https://autohotkey.com/download/
+1. Download AutoHotkey from [AutoHotkey](https://autohotkey.com/download): 
 2. Download Apple Keyboard.ahk
 3. Click on compile and select Apple Keyboard.ahk as the source file and AppleLogo.ico as the icon.
 4. Click Convert.
